@@ -1,7 +1,7 @@
 # __ENG__
 ## GR-AntarcticIce
 AntarcticIce is an animation showing changes of the Antarctic ice extent over a period of 500 days.
-On the animation two changing objects can percived.
+On the animation two changing objects can perceived.
 - Real ice range. (blue)
 - Expected ice range generated as a mathematical model. (orange)
 
