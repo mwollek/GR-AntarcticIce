@@ -6,7 +6,7 @@ On the animation two changing objects can perceived.
 - Expected ice range generated as a mathematical model. (orange)
 
 
-## Used technologies and modules:
+## Technologies and modules:
 - Python 3
 - numpy
 - matplotlib
