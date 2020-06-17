@@ -14,8 +14,7 @@ On the animation two changing objects can perceived.
 
 
 ## Specification 
-**NOTE:** Actual data covers a period of 9530 days, however data for mathematical
-the model has been upset only for the last 500 days.
+**NOTE:** Actual data covers a period of 9530 days, however data for mathematical model has been upset only for the last 500 days.
 
 The project has been divided into two parts:
   - Data preparation
